@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Extensão EAD — Revisão Sistemática, Protocolo PRISMA e MBE",
+  "description": "Plataforma Institucional, Explorador Metodológico PRISMA 2020 e Sistema Oficial de Verificação Pública de Autenticidade de Certificados (Editora Mente e Saúde & Centro Profissionalizante Maria Dalva de Araújo).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
